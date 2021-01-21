@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="find_other_device">Find other device</string>
+    <string name="start_finish">Start/Finish</string>
+</resources>
